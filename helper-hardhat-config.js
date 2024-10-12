@@ -29,19 +29,14 @@ const networkConfig = {
 
 const developmentChains = ["hardhat", "localhost"];
 const VERIFICATION_BLOCK_CONFIRMATIONS = 6;
-const frontEndContractsFile =
-  "../nextjs-marketplace/constants/networkMapping.json";
-const frontEndContractsFile2 =
-  "../nextjs-marketplace-thegraph/constants/networkMapping.json";
-const frontEndAbiLocation = "../nextjs-marketplace/constants/";
-const frontEndAbiLocation2 = "../nextjs-marketplace-thegraph/constants/";
+const frontEndContractsFile = "./constants/contractAddress.json";
+
+const frontEndAbiFile = "./constants/abi.json";
 
 module.exports = {
   networkConfig,
   developmentChains,
   VERIFICATION_BLOCK_CONFIRMATIONS,
   frontEndContractsFile,
-  frontEndContractsFile2,
-  frontEndAbiLocation,
-  frontEndAbiLocation2,
+  frontEndAbiFile,
 };
