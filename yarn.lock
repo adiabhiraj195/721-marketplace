@@ -901,6 +901,11 @@
   resolved "https://registry.yarnpkg.com/@nomiclabs/hardhat-waffle/-/hardhat-waffle-2.0.6.tgz#d11cb063a5f61a77806053e54009c40ddee49a54"
   integrity sha512-+Wz0hwmJGSI17B+BhU/qFRZ1l6/xMW82QGXE/Gi+WTmwgJrQefuBs1lIf7hzQ1hLk6hpkvb/zwcNkpVKRYTQYg==
 
+"@openzeppelin/contracts-upgradeable@^5.1.0":
+  version "5.1.0"
+  resolved "https://registry.yarnpkg.com/@openzeppelin/contracts-upgradeable/-/contracts-upgradeable-5.1.0.tgz#4d37648b7402929c53e2ff6e45749ecff91eb2b6"
+  integrity sha512-AIElwP5Ck+cslNE+Hkemf5SxjJoF4wBvvjxc27Rp+9jaPs/CLIaUBMYe1FNzhdiN0cYuwGRmYaRHmmntuiju4Q==
+
 "@openzeppelin/contracts@^5.0.2":
   version "5.0.2"
   resolved "https://registry.yarnpkg.com/@openzeppelin/contracts/-/contracts-5.0.2.tgz#b1d03075e49290d06570b2fd42154d76c2a5d210"
@@ -910,6 +915,11 @@
   version "0.11.0"
   resolved "https://registry.yarnpkg.com/@pkgjs/parseargs/-/parseargs-0.11.0.tgz#a77ea742fab25775145434eb1d2328cf5013ac33"
   integrity sha512-+1VkjdD0QBLPodGrJUeqarH8VAIvQODIbwh9XpP5Syisf7YoQgsJKPNFoqqLQlu+VQ/tVSshMR6loPMn8U+dPg==
+
+"@rari-capital/solmate@^6.4.0":
+  version "6.4.0"
+  resolved "https://registry.yarnpkg.com/@rari-capital/solmate/-/solmate-6.4.0.tgz#c6ee4110c8075f14b415e420b13bd8bdbbc93d9e"
+  integrity sha512-BXWIHHbG5Zbgrxi0qVYe0Zs+bfx+XgOciVUACjuIApV0KzC0kY8XdO1higusIei/ZKCC+GUKdcdQZflxYPUTKQ==
 
 "@resolver-engine/core@^0.3.3":
   version "0.3.3"
